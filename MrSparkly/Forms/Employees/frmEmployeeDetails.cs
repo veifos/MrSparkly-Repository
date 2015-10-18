@@ -34,7 +34,8 @@ namespace MrSparkly.Forms.Employees
             InitializeComponent();
             employee = new Employee();
         }
-
+        
+        //This displays all the currently saved employee records
         public frmEmployeeDetails(long primary_key)
         {
             InitializeComponent();
@@ -47,6 +48,7 @@ namespace MrSparkly.Forms.Employees
 
         #region events
 
+        //This saves the data within the fields
         private void btnSave_Click(object sender, EventArgs e)
         {
             employee.EmployeeFirstName = txtFirstName.Text;
@@ -69,6 +71,7 @@ namespace MrSparkly.Forms.Employees
 
         #region aux
 
+        //This displays the selected record on to the form
         private void DisplayRecord()
         {
             txtID.Text = employee.ID.ToString();
