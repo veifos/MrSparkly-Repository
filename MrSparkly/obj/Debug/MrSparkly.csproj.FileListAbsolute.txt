@@ -1,0 +1,54 @@
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\bin\Debug\MrSparkly.exe.config
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Properties.Resources.resources
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.csproj.GenerateResource.Cache
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\bin\Debug\MrSparkly.exe
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\bin\Debug\MrSparkly.pdb
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.forms.frmMain.resources
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.exe
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.pdb
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Meta.frmTemplate.resources
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Meta.frmTemplateDetails.resources
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\bin\Debug\Data\Sparkly1.accdb
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.csprojResolveAssemblyReference.cache
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Meta.frmTemplateList.resources
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\bin\Debug\Database.dll
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\bin\Debug\Database.pdb
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Products.frmProductDetails.resources
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Products.frmProductList.resources
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Employees.frmEmployeeList.resources
+C:\Users\Sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Employees.frmEmployeeDetails.resources
+C:\Users\Sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\bin\Debug\MrSparkly.XML
+C:\Users\Sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.frmLogin.resources
+C:\Users\Sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Orders.frmOrderLines.resources
+C:\Users\Sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Orders.frmOrder.resources
+C:\Users\Sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.OrderLines.frmOrderLinesList.resources
+C:\Users\Sofie\documents\visual studio 2013\Projects\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Orders.frmOrderList.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\bin\Debug\MrSparkly.exe.config
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\bin\Debug\MrSparkly.XML
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.exe
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.pdb
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\bin\Debug\Data\Sparkly1.accdb
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\bin\Debug\MrSparkly.exe
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\bin\Debug\MrSparkly.pdb
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\bin\Debug\Database.dll
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\bin\Debug\Database.pdb
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.csprojResolveAssemblyReference.cache
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Employees.frmEmployeeDetails.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Employees.frmEmployeeList.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.frmLogin.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.forms.frmMain.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Orders.frmOrderLines.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.OrderLines.frmOrderLinesList.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Orders.frmOrder.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Orders.frmOrderList.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Products.frmProductDetails.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Forms.Products.frmProductList.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Meta.frmTemplate.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Meta.frmTemplateDetails.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Meta.frmTemplateList.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.Properties.Resources.resources
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.csproj.GenerateResource.Cache
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\bin\Debug\MrSparkly.exe.manifest
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\bin\Debug\MrSparkly.application
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.exe.manifest
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\MrSparkly\obj\Debug\MrSparkly.application

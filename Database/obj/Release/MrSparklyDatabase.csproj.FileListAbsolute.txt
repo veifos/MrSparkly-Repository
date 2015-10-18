@@ -1,0 +1,4 @@
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\Database\bin\Release\Database.dll
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\Database\bin\Release\Database.pdb
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\Database\obj\Release\Database.dll
+C:\Users\Sofie\Documents\Semester 1 stuff\Assignments & HW\Mr Sparkly\MrSparkly\Database\obj\Release\Database.pdb

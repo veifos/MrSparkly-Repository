@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MrSparkly</name>
+    </assembly>
+    <members>
+        <member name="F:MrSparkly.Meta.frmTemplate.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Meta.frmTemplate.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Meta.frmTemplate.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Meta.frmTemplateDetails.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Meta.frmTemplateDetails.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Meta.frmTemplateDetails.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Forms.Employees.frmEmployeeDetails.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Forms.Employees.frmEmployeeDetails.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Forms.Employees.frmEmployeeDetails.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Meta.frmTemplateList.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Meta.frmTemplateList.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Meta.frmTemplateList.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Forms.Employees.frmEmployeeList.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Forms.Employees.frmEmployeeList.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Forms.Employees.frmEmployeeList.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Forms.frmLogin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Forms.frmLogin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Forms.frmLogin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Forms.OrderLines.frmOrderLinesList.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Forms.OrderLines.frmOrderLinesList.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Forms.OrderLines.frmOrderLinesList.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Forms.Orders.frmOrder.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Forms.Orders.frmOrder.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Forms.Orders.frmOrder.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Forms.Orders.frmOrderLines.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Forms.Orders.frmOrderLines.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Forms.Orders.frmOrderLines.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Forms.Orders.frmOrderList.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Forms.Orders.frmOrderList.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Forms.Orders.frmOrderList.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Forms.Products.frmProductDetails.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Forms.Products.frmProductDetails.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Forms.Products.frmProductDetails.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.Forms.Products.frmProductList.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Forms.Products.frmProductList.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.Forms.Products.frmProductList.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MrSparkly.forms.frmMain.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.forms.frmMain.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MrSparkly.forms.frmMain.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:MrSparkly.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:MrSparkly.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MrSparkly.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MrSparkly.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

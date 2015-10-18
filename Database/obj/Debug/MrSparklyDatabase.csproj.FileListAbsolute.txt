@@ -1,0 +1,5 @@
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\Database\bin\Debug\Database.dll
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\Database\bin\Debug\Database.pdb
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\Database\obj\Debug\Database.dll
+c:\users\sofie\documents\visual studio 2013\Projects\MrSparkly\Database\obj\Debug\Database.pdb
+C:\Users\Sofie\documents\visual studio 2013\Projects\MrSparkly\Database\obj\Debug\MrSparklyDatabase.csprojResolveAssemblyReference.cache
